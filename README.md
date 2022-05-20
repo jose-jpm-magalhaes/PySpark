@@ -4,4 +4,4 @@ For an **interactive preview**:<br><br>
 
 2.1 - If you don't have a Databricks account, set up your Databricks account and create a workspace → [<img src="https://go.granicus.com/rs/231-DWB-776/images/databricks.png" width="10%">](https://databricks.com/)</br> 
 
-2.2 - If you want a previous detailed explation of how it works [click here](https://docs.databricks.com/getting-started/account-setup.html)
+2.2 - If you want a previous detailed explation of how it works → [click here](https://docs.databricks.com/getting-started/account-setup.html)
