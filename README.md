@@ -9,4 +9,15 @@ For an **interactive preview**:<br><br>
  > - PySpark is the ‘product’ of the collaboration beteween `Apache Spark` and `Python`.
  > - PySpark is the `Python API` for Apache Spark, an open source distributed computing framework that provides some of the most popular tools used to carry out common Big Data related tasks.
 - - - 
+<br>
 
+###	Aim: To create a ML model with PySpark that predicts which passengers survived the sinking of the Titanic. 
+
+→	**Considering** that the **Titanic ML competition is almost legendary** and that **almost everyone** (competitor or non-competitor) that **tried to tackle the challenge** did it either with **python or R**, I decided to use **Pyspark, having run a notebook in Databricks** to **show how easy can be to work with PySpark**, namely regarding:<br>
+
+> -	EDA
+> -	Feature Selection
+> -	Feature Engineering
+> -	Train-Test Split (within the training set)
+> -	Pipelines
+> -	Classification: a baseline model and hyperparameter tuning with Crossvalidator
