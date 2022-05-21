@@ -1,8 +1,9 @@
 # PySpark
-For an **interactive preview** (with **all** the **charts displayed)**:<br><br>
-1 - You can edit and run the notebook by importing it into your Databricks account. After clicking `Workspace` select Import from any folder's menu and paste the URL that shows up → [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1199654668581148/4023091891084761/7048844156867682/latest.html)
+For an **interactive preview** (with **all** the **charts displayed)**:<br>
+- You can edit and run the notebook by importing it into your Databricks account. After clicking `Workspace` select Import from any folder's menu and paste the URL that shows up → [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1199654668581148/4023091891084761/7048844156867682/latest.html)
 
-2 - If you don't have a Databricks account, set up your Databricks account and create a workspace → [<img src="https://go.granicus.com/rs/231-DWB-776/images/databricks.png" width="10%">](https://databricks.com/). If you want a previous detailed explanation of how it works → [click here](https://docs.databricks.com/getting-started/account-setup.html)
+- If you don't have a Databricks account, set up your Databricks account and create a workspace → [<img src="https://go.granicus.com/rs/231-DWB-776/images/databricks.png" width="10%">](https://databricks.com/). 
+   - If you want a previous detailed explanation of how it works → [click here](https://docs.databricks.com/getting-started/account-setup.html)
 - - - 
  > - PySpark is the ‘product’ of the collaboration beteween `Apache Spark` and `Python`.
  > - PySpark is the `Python API` for Apache Spark, an open source distributed computing framework that provides some of the most popular tools used to carry out common Big Data related tasks.
@@ -10,7 +11,7 @@ For an **interactive preview** (with **all** the **charts displayed)**:<br><br>
 
 ###	Aim: To create a ML model with PySpark that predicts which passengers survived the sinking of the Titanic. 
 
-→	**Considering** that the **Titanic ML competition is almost legendary** and that **almost everyone** (competitor or non-competitor) that **tried to tackle the challenge** did it either with **python or R**, I decided to use **Pyspark, having run a notebook in Databricks** to **show how easy can be to work with PySpark**, namely regarding:<br>
+→	**Considering** that the **Titanic ML competition is almost legendary** and that **almost everyone** (competitor or non-competitor) that **tried to tackle the challenge** did it either with **python or R**, I decided to use **Pyspark having run a notebook in Databricks** to **show how easy can be to work with PySpark**, namely regarding:<br>
 
 > -	EDA
 > -	Feature Selection
