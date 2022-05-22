@@ -18,4 +18,4 @@ For an **interactive preview** (with **all** the **charts displayed)**:<br>
 > -	Feature Engineering
 > -	Train-Test Split (within the training set)
 > -	Pipelines
-> -	Classification: a baseline model and hyperparameter tuning with Crossvalidator
+> -	Classification and Evaluation: a baseline model and hyperparameter tuning with Crossvalidator
