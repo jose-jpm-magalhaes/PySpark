@@ -6,7 +6,7 @@ For an **interactive preview** (with **all** the **charts displayed)**:<br>
    - If you want a previous detailed explanation of how it works → [click here](https://docs.databricks.com/getting-started/account-setup.html)
 - - - 
  > - PySpark is the ‘product’ of the collaboration beteween `Apache Spark` and `Python`.
- > - PySpark is the `Python API` for Apache Spark, an open source distributed computing framework that provides some of the most popular tools used to carry out common Big Data related tasks.
+ > - PySpark is the `Python API` for Apache Spark, an open source distributed computing framework that provides some of the most popular tools used to carry out common `Big Data` related tasks.
 - - - 
 
 ###	Aim: To create a ML model with PySpark that predicts which passengers survived the sinking of the Titanic. 
